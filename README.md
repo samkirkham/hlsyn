@@ -1,5 +1,4 @@
-# hlsyn
-HLSyn
+# HLSyn articulatory speech synthesizer
 
 These files allow you to run the HLSyn program (Windows only).
 
